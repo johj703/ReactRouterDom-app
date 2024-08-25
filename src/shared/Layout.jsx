@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 const HeaderStyles = {
   width: "100%",
   background: "black",
