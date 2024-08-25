@@ -1,10 +1,10 @@
-const Header = () => {
+function Header() {
   return (
     <div style={{ ...HeaderStyles }}>
       <span>{`Sparta Coding Club - Let's learn React`}</span>
     </div>
   );
-};
+}
 
 const Layout = ({ children }) => {
   return (
