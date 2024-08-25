@@ -6,7 +6,7 @@ function Header() {
   );
 }
 
-const Layout = ({ children }) => {
+function Layout({ children }) {
   return (
     <div>
       <Header />
@@ -14,6 +14,6 @@ const Layout = ({ children }) => {
       <Footer />
     </div>
   );
-};
+}
 
 export default Layout;
