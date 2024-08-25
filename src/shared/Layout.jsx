@@ -1,7 +1,3 @@
-// src/shared/Layout.js
-
-import React from "react";
-
 const HeaderStyles = {
   width: "100%",
   background: "black",
