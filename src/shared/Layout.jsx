@@ -30,7 +30,7 @@ const layoutStyles = {
 function Header() {
   return (
     <div style={{ ...HeaderStyles }}>
-      <span>Sparta Coding Club - Let's learn React</span>
+      <span>Sparta Coding Club - Let&apos;s learn React</span>
     </div>
   );
 }
