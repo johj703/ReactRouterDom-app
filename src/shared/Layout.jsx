@@ -6,6 +6,14 @@ function Header() {
   );
 }
 
+function Footer() {
+  return (
+    <div style={{ ...FooterStyles }}>
+      <span>copyright ⓒSCC</span>
+    </div>
+  );
+}
+
 function Layout({ children }) {
   return (
     <div>
